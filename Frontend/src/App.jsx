@@ -9,7 +9,7 @@ function App() {
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/numbers" element={<LifePurpose />} />
+          <Route path="/life-purpose" element={<LifePurpose />} />
         </Routes>
 
         <Footer />
